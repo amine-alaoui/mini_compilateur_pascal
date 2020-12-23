@@ -9,4 +9,5 @@ while x<y do begin read(y); x:=x+y+titi; end;
 {* affichage des résultats de x et y *}
 write(x);
 write(y);
+write(y);
 end.
